@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Kotlin Basics",
+    "description": "Learn fundamentals of Kotlin"
+  },
+  {
+    "id": 2,
+    "title": "Jetpack Compose",
+    "description": "UI toolkit for modern Android"
+  }
+]
