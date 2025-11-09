@@ -1,14 +1,14 @@
 [
   {
-    "titleFontSize": "2",
+    "titleFontSize": "20",
     "titleFontColor" : "#000000",
     "completedContainerColor": "#A5D6A7",
     "defaultContainerColor": "#E3F2FD",
-    "ddFontSize": "2",
+    "ddFontSize": "12",
     "ddFontColor" : "#000000"
   },
   {
-    "titleFontSize": "2",
+    "titleFontSize": "20",
     "titleFontColor" : "#000000",
     "completedContainerColor": "#A5D6A7",
     "defaultContainerColor": "#E3F2FD",
@@ -16,5 +16,6 @@
     "ddFontColor" : "#000000"
   }
 ]
+
 
 
