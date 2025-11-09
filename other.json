@@ -5,7 +5,8 @@
     "completedContainerColor": "#A5D6A7",
     "defaultContainerColor": "#E3F2FD",
     "ddFontSize": "12",
-    "ddFontColor" : "#000000"
+    "ddFontColor" : "#000000",
+    "topicFontColor" : "#000000"
   },
   {
     "titleFontSize": "20",
@@ -13,9 +14,11 @@
     "completedContainerColor": "#A5D6A7",
     "defaultContainerColor": "#E3F2FD",
     "ddFontSize": "2",
-    "ddFontColor" : "#000000"
+    "ddFontColor" : "#000000",
+    "topicFontColor" : "#000000"
   }
 ]
+
 
 
 
