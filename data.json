@@ -22,7 +22,8 @@
         "endDateOfTopic": "1st Jan, 2025"
       }
     ],
-    "endDate": "10 Oct, 2025"
+    "endDate": "10 Oct, 2025",
+    "isCompleted": 1
   },
 
 
@@ -49,9 +50,11 @@
         "endDateOfTopic": "1st Jan, 2025"
       }
     ],
-    "endDate": "10 Oct, 2025"
+    "endDate": "10 Oct, 2025",
+     "isCompleted": 0
   }
 ]
+
 
 
 
