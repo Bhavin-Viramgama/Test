@@ -4,19 +4,19 @@
     "sName": "Computer Network",
     "topics": [
       {
-        "id": 1,
+        "id": 1.1,
         "title": "Chapter1",
         "status": "Completed",
         "endDateOfTopic": "1st Jan, 2025"
       },
       {
-        "id": 2,
+        "id": 1.2,
         "title": "Chapter2",
         "status": "Running",
         "endDateOfTopic": "1st Jan, 2025"
       },
       {
-        "id": 3,
+        "id": 1.3,
         "title": "Chapter3",
         "status": "pending",
         "endDateOfTopic": "1st Jan, 2025"
@@ -31,19 +31,19 @@
     "sName": "Analysis and Design of algorithm",
     "topics": [
       {
-        "id": 1,
+        "id": 2.1,
         "title": "Chapter1",
         "status": "Completed",
         "endDateOfTopic": "1st Jan, 2025"
       },
       {
-        "id": 2,
+        "id": 2.2,
         "title": "Chapter2",
         "status": "Running",
         "endDateOfTopic": "1st Jan, 2025"
       },
       {
-        "id": 3,
+        "id": 2.3,
         "title": "Chapter3",
         "status": "pending",
         "endDateOfTopic": "1st Jan, 2025"
@@ -52,6 +52,7 @@
     "endDate": "10 Oct, 2025"
   }
 ]
+
 
 
 
