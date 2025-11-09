@@ -3,21 +3,22 @@
     "id": 1,
     "title": "Kotlin Basics",
     "description": "Learn fundamentals of Kotlin",
-    "color": RED
+    "color": "RED"
   },
   {
     "id": 2,
     "title": "Jetpack Compose",
     "description": "UI toolkit for modern Android",
-    "color":RED
+    "color":"RED"
   },
   {
     "id": 3,
     "title": "Ktor",
     "description": "Networking",
-    "color":BLUE
+    "color":"BLUE"
   }
 ]
+
 
 
 
