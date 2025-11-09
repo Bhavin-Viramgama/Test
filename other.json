@@ -4,14 +4,11 @@
     "completedContainerColor" : "2",
     "defaultContainerColor" : "2",
     "ddFontSize" : "3"
+  },
+  {
+    "titleFontSize" : "3",
+    "completedContainerColor" : "2",
+    "defaultContainerColor" : "2",
+    "ddFontSize" : "3"
   }
 ]
-
-
-
-
-
-
-
-
-
