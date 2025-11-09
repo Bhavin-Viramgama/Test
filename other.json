@@ -1,11 +1,12 @@
 [
   {
-    "titleFontSize" : "3",
-    "completedContainerColor" : "1",
-    "defaultContainerColor" : "1",
-    "ddFontSize" : "3"
+    "titleFontSize" : "1",
+    "completedContainerColor" : "4",
+    "defaultContainerColor" : "2",
+    "ddFontSize" : "1"
   }
 ]
+
 
 
 
