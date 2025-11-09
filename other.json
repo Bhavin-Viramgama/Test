@@ -1,14 +1,8 @@
 [
   {
-    "titleFontSize" : "3",
-    "completedContainerColor" : "2",
-    "defaultContainerColor" : "2",
-    "ddFontSize" : "3"
-  },
-  {
-    "titleFontSize" : "3",
-    "completedContainerColor" : "2",
-    "defaultContainerColor" : "2",
-    "ddFontSize" : "3"
+    "titleFontSize": "2",
+    "completedContainerColor": "#A5D6A7",
+    "defaultContainerColor": "#E3F2FD",
+    "ddFontSize": "2"
   }
 ]
