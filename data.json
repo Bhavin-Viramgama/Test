@@ -1,23 +1,58 @@
 [
   {
     "id": 1,
-    "title": "Kotlin Basics",
-    "description": "Learn fundamentals of Kotlin",
-    "color": "RED"
+    "sName": "Computer Network",
+    "topics": [
+      {
+        "id": 1,
+        "title": "Chapter1",
+        "status": "Completed",
+        "endDateOfTopic": "1st Jan, 2025"
+      },
+      {
+        "id": 2,
+        "title": "Chapter2",
+        "status": "Running",
+        "endDateOfTopic": "1st Jan, 2025"
+      },
+      {
+        "id": 3,
+        "title": "Chapter3",
+        "status": "pending",
+        "endDateOfTopic": "1st Jan, 2025"
+      }
+    ],
+    "endDate": "10 Oct, 2025"
   },
-  {
+
+
+   {
     "id": 2,
-    "title": "Jetpack Compose",
-    "description": "UI toolkit for modern Android",
-    "color":"RED"
-  },
-  {
-    "id": 3,
-    "title": "Ktor",
-    "description": "Networking",
-    "color":"BLUE"
+    "sName": "Analysis and Design of algorithm",
+    "topics": [
+      {
+        "id": 1,
+        "title": "Chapter1",
+        "status": "Completed",
+        "endDateOfTopic": "1st Jan, 2025"
+      },
+      {
+        "id": 2,
+        "title": "Chapter2",
+        "status": "Running",
+        "endDateOfTopic": "1st Jan, 2025"
+      },
+      {
+        "id": 3,
+        "title": "Chapter3",
+        "status": "pending",
+        "endDateOfTopic": "1st Jan, 2025"
+      }
+    ],
+    "endDate": "10 Oct, 2025"
   }
 ]
+
 
 
 
