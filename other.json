@@ -2,7 +2,7 @@
   {
     "titleFontSize": "16",
     "titleFontColor" : "#000000",
-    "completedContainerColor": "#A5D6A8",
+    "completedContainerColor": "#000000",
     "defaultContainerColor": "#E3F2FD",
     "ddFontSize": "12",
     "ddFontColor" : "#000000",
@@ -18,11 +18,3 @@
     "topicFontColor" : "#000000"
   }
 ]
-
-
-
-
-
-
-
-
