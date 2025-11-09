@@ -4,5 +4,12 @@
     "completedContainerColor": "#A5D6A7",
     "defaultContainerColor": "#E3F2FD",
     "ddFontSize": "2"
+  },
+  {
+    "titleFontSize": "2",
+    "completedContainerColor": "#A5D6A7",
+    "defaultContainerColor": "#E3F2FD",
+    "ddFontSize": "2"
   }
 ]
+
