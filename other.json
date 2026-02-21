@@ -6,7 +6,7 @@
     "defaultContainerColor": "#E3F2FD",
     "ddFontSize": "12",
     "ddFontColor" : "#000000",
-    "topicFontColor" : "#000000"
+    "topicFontColor" : "#FF0000"
   },
   {
     "titleFontSize": "20",
@@ -18,5 +18,6 @@
     "topicFontColor" : "#FF0000"
   }
 ]
+
 
 
