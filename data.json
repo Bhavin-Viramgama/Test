@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "sName": "Computer Network",
+    "sName": "Computer Networks",
     "topics": [
       {
         "id": 1.1,
@@ -84,3 +84,4 @@
     "isCompleted": "0"
   }
 ]
+
