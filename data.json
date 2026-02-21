@@ -31,9 +31,7 @@
     "endDate": "10 Oct, 2025",
     "isCompleted": "1"
   },
-
-
-   {
+  {
     "id": 2,
     "sName": "Analysis and Design of algorithm",
     "topics": [
@@ -59,13 +57,12 @@
     "endDate": "10 Oct, 2025",
     "isCompleted": "0"
   },
-  
-   {
+  {
     "id": 3,
     "sName": "Web Programming",
     "topics": [
       {
-        "id":3.1,
+        "id": 3.1,
         "title": "Chapter1",
         "status": "Completed",
         "endDateOfTopic": "1st Jan, 2025"
@@ -87,13 +84,3 @@
     "isCompleted": "0"
   }
 ]
-
-
-
-
-
-
-
-
-
-
